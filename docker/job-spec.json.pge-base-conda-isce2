@@ -1,0 +1,12 @@
+{
+  "recommended_queues": ["factotum-job_worker-small"],
+  "command": "echo",
+  "imported_worker_files": {
+    "/home/ops/.netrc": "/home/ops/.netrc",
+    "/home/ops/.aws": "/home/ops/.aws"
+  },
+  "soft_time_limit": 3600,
+  "time_limit": 3600,
+  "disk_usage": "512GB",
+  "params": []
+}

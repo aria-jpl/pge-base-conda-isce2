@@ -1,0 +1,7 @@
+{
+  "label": "PGE Base with conda+isce2",
+  "submission_type": "individual",
+  "allowed_accounts": [ "ops" ],
+  "action-type":  "both",
+  "params": []
+}
